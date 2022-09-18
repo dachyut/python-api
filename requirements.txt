@@ -1,0 +1,7 @@
+requests
+jsonpath
+pytest
+pytest-html
+pytest_reportportal
+openpyxl
+pytest-check
